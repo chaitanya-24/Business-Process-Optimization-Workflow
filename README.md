@@ -1,4 +1,4 @@
-# OptiFlow AI: Business Process Optimization Workflow (In Progress)
+# AI-Powered Text-to-Process Workflow Generator (In Progress)
 
 This project leverages the power of Generative AI to optimize business workflows. By analyzing the data, the system can predict and suggest optimal workflows, enabling businesses to improve efficiency and reduce operational bottlenecks. It integrates cutting-edge technologies like AWS Bedrock, Lambda, and API Gateway to provide a seamless solution for business process optimization.
 
